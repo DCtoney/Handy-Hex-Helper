@@ -1,0 +1,22 @@
+{
+  "id": "handy-hex-helper",
+  "title": "Handy Hex Helper",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "DCtoney",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": "",
+  "scripts": [
+    "src/module/test.js"
+  ]
+}
