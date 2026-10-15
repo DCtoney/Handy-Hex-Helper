@@ -15,7 +15,7 @@
   "flags": {
     "canUpload": true
   },
-  "description": "",
+  "description": "A small module to streamline Hexcrawls using the Alexandrians rules as a guide.",
   "scripts": [
     "src/module/test.js"
   ]
